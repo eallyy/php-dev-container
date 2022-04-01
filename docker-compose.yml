@@ -1,0 +1,9 @@
+version: '3'
+services:
+  lampp:
+    build: .
+    tty: true
+    ports:
+      - 80:80
+    volumes:
+      ./www:/var/www/html
