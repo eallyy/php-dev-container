@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/eallyy/php-dev-container">
-    <img src="https://variwiki.com/images/a/a1/Docker.png" alt="Logo" width="80" height="80">
+    <img src="https://variwiki.com/images/a/a1/Docker.png" alt="Logo" height="80">
   </a>
 
 <h3 align="center">PHP Dev Container</h3>
